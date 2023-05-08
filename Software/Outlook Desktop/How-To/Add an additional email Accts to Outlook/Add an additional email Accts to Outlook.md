@@ -30,6 +30,6 @@
 
 	4. Choose "Microsoft 365" or MS365 emails. It will be different depending on what kind of email provider you are trying to add.
 
-![MS365.png	](images/MS365.png	)
+![MS365.png	](images/MS365.png)
 
 
