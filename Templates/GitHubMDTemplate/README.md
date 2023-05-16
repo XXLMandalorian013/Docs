@@ -156,7 +156,7 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ### Display code blocks within a code block:
 
-![DevOpsCollective](images/DisplayCodeBlocksWithinACodeBlock.png)
+![DisplayCodeBlocksWithinACodeBlock](images/DisplayCodeBlocksWithinACodeBlock.png)
 
 
 
