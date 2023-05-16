@@ -1,10 +1,12 @@
 # GitHub Markdown Template
 
-###### Table of Contents  
-[Headings](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#headings)  
-[Styling](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#styling)
-[Test](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#test)
+- [GitHub Markdown Template](#github-markdown-template)
+  * [Headings](#headings)
+  * [Styling](#styling)
+  * [Example of a table](#example-of-a-table)
+  * [Test](#test)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Headings
@@ -56,8 +58,16 @@ Here is an example of a table.
 
 
 
-
-
 ## Test
 
 Here is an example of a test.
+
+
+
+
+###### Link test  
+[Headings](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#headings)
+  
+[Styling](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#styling)
+
+[Test](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#test)
