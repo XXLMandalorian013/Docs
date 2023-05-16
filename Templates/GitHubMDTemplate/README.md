@@ -144,8 +144,19 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 Here is the raw markdown for code blocks with or without syntax.
 
+````
+```powershell
+$Global:VMName = 'Win10VM'
 
-![displaybackticks](images/displaybackticks.png)
+$Global:ISOPath = 'E:\ISOs\WindowsServer2019.iso'
+
+Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
+```
+````
+
+### Display code blocks within a code block:
+
+![DisplayCodeBlocksWithinACodeBlock](Images/DisplayCodeBlocksWithinACodeBlock.png)
 
 
 
