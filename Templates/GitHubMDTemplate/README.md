@@ -114,7 +114,7 @@ Here is the raw markdown for bolding and italicizing.
 
 ## Images
 
-![friendlyNeighborhoodPS](Templates\GitHubMDTemplate\Images\friendlyNeighborhoodPS.png)
+:::image type="content" source="Images/friendlyNeighborhoodPS.png" alt-text="PowerShellMan":::
 
 
 ## Code Blocks
