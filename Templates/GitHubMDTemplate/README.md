@@ -1,9 +1,9 @@
 # GitHub Markdown Template
 
 - [GitHub Markdown Template](#github-markdown-template)
-  * [Headings](#headings)
-  * [Styling](#styling)
-  * [Example of a table](#example-of-a-table)
+  - [Headings](#headings)
+  - [Styling](#styling)
+  - [Example of a table](#example-of-a-table)
 
 
 ## Headings
@@ -38,12 +38,12 @@ There are six recognized heading sizes. The largest is Heading 1, the smallest i
 
 Having multiple ## second-level heading headings will create a table of contents.
 
-
-
 ## Styling
 
 Bold Example - Simply type what you want, then highlight it and press ALT+M and select bold to make it bold. Alternatively, you can prefix and suffix a word with astrict.
 **Bold Example**
+
+Here is the raw markdown for bolding.
 
 ```md
 **Bold Example**
@@ -52,6 +52,8 @@ Bold Example - Simply type what you want, then highlight it and press ALT+M and 
 ###### Italic Example - Simply type what you want, then highlight it and press ALT+M and select italic to make it italic. Alternatively, you can prefix and suffix a word with astrict.
 
 *Italic Example*
+
+Here is the raw markdown for italicizing.
 
 ```md
 *Italic Example*
