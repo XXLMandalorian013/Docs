@@ -11,7 +11,7 @@
 
 There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples.
 
-```
+```markdown
 # first-level heading
 
 ## second-level heading
@@ -43,6 +43,15 @@ Here is an example of a table.
 |    2    |      MarkDown     |
 |    3    |        HTML       |
 |    4    |        CSS        |
+
+```markdown
+| Kowlage | Computer Lauguage |
+|--------:|-------------------|
+|    1    |     PowerShell    |
+|    2    |      MarkDown     |
+|    3    |        HTML       |
+|    4    |        CSS        |
+```
 
 
 
