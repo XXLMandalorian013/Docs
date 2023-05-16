@@ -158,6 +158,8 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ![DisplayCodeBlocksWithinACodeBlock](Templates/GitHubMDTemplate\Images/DisplayCodeBlocksWithinACodeBlock.png)
 
+image.png
+
 
 
 ## Escaping Markdown
