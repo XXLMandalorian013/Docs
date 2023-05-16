@@ -1,8 +1,8 @@
 # GitHub Markdown Template
 
 ###### Table of Contents  
-[Headers](##headers)  
-[Styles](##Styles)  
+[Headings](#headings)  
+[Styling](#Styling)  
 <a name="headers"/>
 
 
