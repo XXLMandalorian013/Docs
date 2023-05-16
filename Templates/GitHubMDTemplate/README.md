@@ -4,9 +4,6 @@
   * [Headings](#headings)
   * [Styling](#styling)
   * [Example of a table](#example-of-a-table)
-  * [Test](#test)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Headings
@@ -45,11 +42,30 @@ Having multiple ## second-level heading headings will create a table of contents
 
 ## Styling
 
+Bold Example - Simply type what you want, then highlight it and press ALT+M and select bold to make it bold. Alternatively, you can prefix and suffix a word with astrict.
+**Bold Example**
+
+```md
+**Bold Example**
+```
+
+###### Italic Example - Simply type what you want, then highlight it and press ALT+M and select italic to make it italic. Alternatively, you can prefix and suffix a word with astrict.
+
+*Italic Example*
+
+```md
+*Italic Example*
+```
+
+
+###### Bold and Italic Example - Simply prefix and suffix a word with astrict :::no-loc text="***bold and italic***":::.
+
+***bold and italic***.
+
 
 ## Example of a table
 
 Here is an example of a table.
-
 
 | Kowlage | Computer Lauguage |
 |--------:|-------------------|
@@ -57,6 +73,8 @@ Here is an example of a table.
 |    2    |      MarkDown     |
 |    3    |        HTML       |
 |    4    |        CSS        |
+
+Here is the raw markdown for the table above.
 
 ```markdown
 | Kowlage | Computer Lauguage |
@@ -68,18 +86,3 @@ Here is an example of a table.
 ```
 
 
-
-
-## Test
-
-Here is an example of a test.
-
-
-
-
-###### Link test  
-[Headings](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#headings)
-  
-[Styling](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#styling)
-
-[Test](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#test)
