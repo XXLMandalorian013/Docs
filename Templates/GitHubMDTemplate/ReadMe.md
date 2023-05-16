@@ -3,17 +3,17 @@
 
 ### There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples.
 
-:::no-loc text="# first-level heading":::
+# first-level heading
 
-:::no-loc text="## second-level heading":::
+## second-level heading
 
-:::no-loc text="### third-level heading":::
+### third-level heading
 
-:::no-loc text="#### fourth-level heading":::
+#### fourth-level heading
 
-:::no-loc text="##### fifth-level heading":::
+##### fifth-level heading"
 
-:::no-loc text="###### sixth-level headin":::
+###### sixth-level headin
 
 ### Having multiple medium-sized headings will create a table of contents.
 
