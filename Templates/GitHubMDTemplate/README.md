@@ -1,14 +1,27 @@
 # GitHub Markdown Template
 
+###### Table of Contents
 - [GitHub Markdown Template](#github-markdown-template)
-  - [Headings](#headings)
-  - [Styling](#styling)
-  - [Example of a table](#example-of-a-table)
+  * [Headings](#headings)
+- [first-level heading](#first-level-heading)
+  * [second-level heading](#second-level-heading)
+    + [third-level heading](#third-level-heading)
+      - [fourth-level heading](#fourth-level-heading)
+        * [fifth-level heading](#fifth-level-heading)
+          + [sixth-level heading](#sixth-level-heading)
+  * [Styling](#styling)
+    + [Bold Example](#bold-example)
+    + [Italic Example](#italic-example)
+    + [Bold and Italic Example](#bold-and-italic-example)
+  * [Example of a table](#example-of-a-table)
+  * [Table of Contents](#table-of-contents)
+
+
 
 
 ## Headings
 
-There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples. You can also not use # at all and just type to get the
+There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples. You can also not use # at all and just type what you want.
 
 ```markdown
 # first-level heading
@@ -36,11 +49,11 @@ There are six recognized heading sizes. The largest is Heading 1, the smallest i
 
 ###### sixth-level heading
 
-Having multiple ## second-level heading headings will create a table of contents.
-
 ## Styling
 
-Bold Example - Simply type what you want, then highlight it and press ALT+M and select bold to make it bold. Alternatively, you can prefix and suffix a word with astrict.
+### Bold Example
+
+Simply type what you want, then highlight it and press ALT+M and select bold to make it bold. Alternatively, you can prefix and suffix a word with astrict.
 **Bold Example**
 
 Here is the raw markdown for bolding.
@@ -49,7 +62,9 @@ Here is the raw markdown for bolding.
 **Bold Example**
 ```
 
-###### Italic Example - Simply type what you want, then highlight it and press ALT+M and select italic to make it italic. Alternatively, you can prefix and suffix a word with astrict.
+### Italic Example
+
+Simply type what you want, then highlight it and press ALT+M and select italic to make it italic. Alternatively, you can prefix and suffix a word with astrict.
 
 *Italic Example*
 
@@ -59,10 +74,18 @@ Here is the raw markdown for italicizing.
 *Italic Example*
 ```
 
+### Bold and Italic Example
 
-###### Bold and Italic Example - Simply prefix and suffix a word with astrict :::no-loc text="***bold and italic***":::.
+Simply prefix and suffix a word with astricts.
 
+***bold and italic***
+
+Here is the raw markdown for bolding and italicizing.
+
+```md
 ***bold and italic***.
+```
+
 
 
 ## Example of a table
@@ -87,4 +110,8 @@ Here is the raw markdown for the table above.
 |    4    |        CSS        |
 ```
 
+## Table of Contents
+
+
+That said, once you under stand how this works, you can use the following to create a table of contents. https://ecotrust-canada.github.io/markdown-toc/
 
