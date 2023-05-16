@@ -114,7 +114,7 @@ Here is the raw markdown for bolding and italicizing.
 
 ## Images
 
-![friendlyNeighborhoodPS](Templates/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
+![friendlyNeighborhoodPS](Templates\GitHubMDTemplate\Images\friendlyNeighborhoodPS.png)
 
 
 ## Code Blocks
