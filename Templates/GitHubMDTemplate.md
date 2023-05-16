@@ -1,7 +1,7 @@
 # GitHub Markdown Template
 ## Headings
 
-### There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The :::no-loc text="# "::: symbol followed by a space and what you want to type is used to create a heading. See below for examples.
+### There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples.
 
 :::no-loc text="# first-level heading":::
 
@@ -19,3 +19,4 @@
 
 
 ## Styling
+
