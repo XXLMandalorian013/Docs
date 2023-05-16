@@ -1,9 +1,9 @@
 # GitHub Markdown Template
 
 ###### Table of Contents  
-[Headings](#headings)  
-[Styling](#Styling)
-[Test](#test)
+[Headings](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#headings)  
+[Styling](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#styling)
+[Test](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/tree/main/Templates/GitHubMDTemplate#test)
 
 
 
