@@ -156,7 +156,9 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ### Display code blocks within a code block:
 
-![DisplayCodeBlocksWithinACodeBlock](GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png)
+![DisplayCodeBlocksWithinACodeBlock](GitHubMDTemplate/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png)
+
+
 
 
 ## Escaping Markdown
