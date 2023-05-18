@@ -156,7 +156,7 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ### Display code blocks within a code block:
 
-![DisplayCodeBlocksWithinACodeBlock](images/DisplayCodeBlocksWithinACodeBlock.png)
+![DisplayCodeBlocksWithinACodeBlock](Images\DisplayCodeBlocksWithinACodeBlock.png)
 
 
 ## Escaping Markdown
