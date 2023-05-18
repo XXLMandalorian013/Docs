@@ -156,10 +156,6 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ### Display code blocks within a code block:
 
-<img src="GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png">
-
-
-
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png">
 
 
