@@ -176,7 +176,7 @@ Here is the raw markdown for quoting code.
 `$Global:VMName = 'Win10VM'`
 ```
 
-## Escaping Markdown :running_woman:
+## :running_woman: Escaping Markdown
 
 Escaping markdown can be a bit tricky but works for most cases. Simply put a `\` in front of what you dont want to be rendered as Markdown.
 
@@ -292,7 +292,7 @@ Here is the raw markdown for Quote Style 2.
 > Text that is a quote
 ```
 
-## Comment :memo: :pencil:
+## Comment :memo:
 
 To add a comment type the following. You will not see it rendered as its for your reference only.
 
@@ -326,7 +326,7 @@ E=mc<sup>2</sup>
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
-## Table of Contents :alembic:
+## Table of Contents :open_book:
 
 
 That said, once you understand how this works, you can use the following to create a table of contents automatically by navigating to https://ecotrust-canada.github.io/markdown-toc/.
