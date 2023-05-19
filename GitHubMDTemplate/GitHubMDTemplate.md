@@ -1,4 +1,4 @@
-# GitHub Markdown Template
+# GitHub Markdown Template :page_facing_up:
 
 ###### Table of Contents
 
@@ -321,8 +321,6 @@ Here is the raw markdown for superscript.
 ```md
 E=mc<sup>2</sup>
 ```
-
-:page_facing_up:
 
 ## Table of Contents
 
