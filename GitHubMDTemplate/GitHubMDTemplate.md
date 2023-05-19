@@ -114,6 +114,8 @@ Here is the raw markdown for bolding and italicizing.
 
 ## Images
 
+If writing this in VS code, it will not render when preview, but it will render on GitHub.
+
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
 
 
