@@ -322,7 +322,7 @@ Here is the raw markdown for superscript.
 E=mc<sup>2</sup>
 ```
 
-## Emojis :alembic:
+## Emojis :grin:
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
