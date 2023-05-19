@@ -114,9 +114,15 @@ Here is the raw markdown for bolding and italicizing.
 
 ## Images
 
-If writing this in VS code, it will not render when preview, but it will render on GitHub.
+As I am writing this for Github flavored Mardown, I have used the html way to link an image. I used this over the typical markdown way, `![ImageName](Images/friendlyNeighborhoodPS.png)` because I am going to have a bunch of nested folders and as of the time writing this only when the Markdown file is in the base folder and or the images folder is in the base folder of the Repo. If you are previewing it in VSCode it will show as broken, but once pushed to Github it will display the image.
 
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
+
+Here is the raw markdown for linking an image to render.
+
+```html
+<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
+```
 
 
 ## Code Blocks
@@ -160,10 +166,41 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png">
 
+### Quoting Code:
+
+To quote code withing a sentence, use a single backtick prefix and suffix a word or phase as so `$Global:VMName = 'Win10VM'`.
+
+Here is the raw markdown for quoting code.
+
+```markdown
+`$Global:VMName = 'Win10VM'`
+```
 
 ## Escaping Markdown
 
+Escaping markdown can be a bit tricky but works for most cases. Simply put a `\` in front of what you dont want to be rendered as Markdown.
 
+In this example I had a PowerShell code block that I escaped.
+
+\```powershell
+$Global:VMName = 'Win10VM'
+
+$Global:ISOPath = 'E:\ISOs\WindowsServer2019.iso'
+
+Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
+\```
+
+Here is the raw markdown for escaping Markdowns code block.
+
+```
+\```powershell
+$Global:VMName = 'Win10VM'
+
+$Global:ISOPath = 'E:\ISOs\WindowsServer2019.iso'
+
+Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
+\```
+```
 
 ## Example of a table
 
@@ -285,6 +322,7 @@ Here is the raw markdown for superscript.
 E=mc<sup>2</sup>
 ```
 
+:page_facing_up:
 
 ## Table of Contents
 
