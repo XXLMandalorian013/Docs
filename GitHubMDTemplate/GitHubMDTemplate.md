@@ -30,9 +30,9 @@
 
 </details>
 
+Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown).
 
-
-## Headings
+## Headings :man_beard:
 
 There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples. You can also not use # at all and just type what you want.
 
@@ -321,6 +321,10 @@ Here is the raw markdown for superscript.
 ```md
 E=mc<sup>2</sup>
 ```
+
+## Emojis
+
+A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
 ## Table of Contents
 
