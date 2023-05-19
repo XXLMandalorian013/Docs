@@ -1,4 +1,4 @@
-# GitHub Markdown Template :page_facing_up:
+# GitHub :octocat: Markdown Template :page_facing_up:
 
 ###### Table of Contents
 
@@ -66,7 +66,7 @@ no heading
 
 no heading
 
-## Styling
+## Styling :man_in_tuxedo:
 
 ### Bold example:
 
@@ -112,7 +112,7 @@ Here is the raw markdown for bolding and italicizing.
 ~~This was mistaken text~~
 ```
 
-## Images
+## Images :framed_picture:
 
 As I am writing this for Github flavored Mardown, I have used the html way to link an image. I used this over the typical markdown way, `![ImageName](Images/friendlyNeighborhoodPS.png)` because I am going to have a bunch of nested folders and as of the time writing this only when the Markdown file is in the base folder and or the images folder is in the base folder of the Repo. If you are previewing it in VSCode it will show as broken, but once pushed to Github it will display the image.
 
@@ -125,7 +125,7 @@ Here is the raw markdown for linking an image to render.
 ```
 
 
-## Code Blocks
+## Code Blocks :shell:
 
 ### Code blocks without syntaxing:
 
@@ -176,7 +176,7 @@ Here is the raw markdown for quoting code.
 `$Global:VMName = 'Win10VM'`
 ```
 
-## Escaping Markdown
+## Escaping Markdown :running_woman:
 
 Escaping markdown can be a bit tricky but works for most cases. Simply put a `\` in front of what you dont want to be rendered as Markdown.
 
@@ -202,7 +202,7 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 \```
 ```
 
-## Example of a table
+## Example of a table :bar_chart:
 
 Here is an example of a table.
 
@@ -224,7 +224,7 @@ Here is the raw markdown for the table above.
 |    4    |        CSS        |
 ```
 
-## Section
+## Section :bookmark_tabs:
 
 #### Pre-collapsed section.
 
@@ -264,7 +264,7 @@ This is some text within the open collapsed section.
 </details open>
 ```
 
-## Quote
+## Quote :speech_balloon:
 
 ### Quote Style 1
 
@@ -292,7 +292,7 @@ Here is the raw markdown for Quote Style 2.
 > Text that is a quote
 ```
 
-## Comment
+## Comment :memo: :pencil:
 
 To add a comment type the following. You will not see it rendered as its for your reference only.
 
@@ -302,7 +302,7 @@ To add a comment type the following. You will not see it rendered as its for you
 <!-- TO DO: add more details about this later -->
 ```
 
-## Subscript
+## Subscript :alembic:
 
 co<sub>2</sub>
 
@@ -322,11 +322,11 @@ Here is the raw markdown for superscript.
 E=mc<sup>2</sup>
 ```
 
-## Emojis
+## Emojis :alembic:
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
-## Table of Contents
+## Table of Contents :alembic:
 
 
 That said, once you understand how this works, you can use the following to create a table of contents automatically by navigating to https://ecotrust-canada.github.io/markdown-toc/.
