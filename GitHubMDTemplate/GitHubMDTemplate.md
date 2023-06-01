@@ -128,12 +128,14 @@ As I am writing this for Github flavored Mardown, I have used the html way to li
 
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
 
+
+![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
 Here is the raw markdown for linking an image to render. When adding pictures in, you will have to
 
 ```html
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
 ```
-
+![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/test-pic.png)
 
 ## Code Blocks :shell:
 
