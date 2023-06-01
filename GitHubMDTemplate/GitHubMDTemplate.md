@@ -157,7 +157,7 @@ Here is the raw markdown for bulleted list.
 
 ### Nested Lists
 
-You can added `-` withing a numbered or an bulleted list.
+You can added `-` withing a numbered or an bulleted list. It can only be nested twice though.
 
 1. First list item
    - First nested list item
@@ -166,16 +166,24 @@ You can added `-` withing a numbered or an bulleted list.
 - First list item
    - First nested list item
      - Second nested list item
+
+Here is the raw Markdown for the above nested lists.
 
 ```markdown
 1. First list item
    - First nested list item
      - Second nested list item
+```
 
+```markdown
 - First list item
    - First nested list item
      - Second nested list item
 ```
+
+### Task List
+
+
 
 
 ### Colors :paintbrush:
