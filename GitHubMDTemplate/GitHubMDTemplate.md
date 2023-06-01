@@ -41,7 +41,7 @@
 
 </details>
 
-Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown).
+Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown). Also the MD discribed below render properly on GitHub, but may look different in VSCode's defualt previewer.
 
 ## Headings :man_beard:
 
@@ -319,7 +319,7 @@ co<sub>2</sub>
 
 Here is the raw markdown for subscript.
 
-```md
+```markdown
 co<sub>2</sub>
 ```
 
@@ -329,7 +329,7 @@ E=mc<sup>2</sup>
 
 Here is the raw markdown for superscript.
 
-```md
+```markdown
 E=mc<sup>2</sup>
 ```
 
@@ -337,8 +337,22 @@ E=mc<sup>2</sup>
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
+## Links
+
+Should you want to include links in your MD page, you can simply type the URL and it will be rendered as a link.
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
+
+A way to shorten a URLs is to use the GitHub flavored way to add links
+
+[learn-markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
+```makrdown
+[learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
+```
+
 ## Table of Contents :open_book:
 
 
-That said, once you understand how this works, you can use the following to create a table of contents automatically by navigating to https://ecotrust-canada.github.io/markdown-toc/.
+Github creates a table of contense based off your headings. They call it an "Outline". Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
 
