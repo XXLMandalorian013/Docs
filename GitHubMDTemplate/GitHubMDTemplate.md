@@ -157,9 +157,11 @@ Here is the raw markdown for bulleted list.
 
 ### Color Models
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+`#ffffff The background color is  for light mode and for dark mode.`
 
-![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
+`#000000 The background color is  for light mode and  for dark mode.`
+
+![#FF0000](https://placehold.it/15/FF0000/000000?text=Word)
 
 ## Images :framed_picture:
 
