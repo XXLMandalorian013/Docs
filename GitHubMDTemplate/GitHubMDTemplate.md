@@ -122,22 +122,49 @@ Here is the raw markdown for bolding and italicizing.
 ```markdown
 ~~This was mistaken text~~
 ```
+
+### Numbered List
+
+To create a numbered list, just type `1.` as you would normaly in most word processors.
+
+Here is the raw markdown for numbered list.
+
+```markdown
+1. First item
+2. Second item
+3. Third item
+```
+
+### Bulleted List
+
+To make a bulleted list, just type `*` as you would normaly in most word processors.
+
+Here is the raw markdown for bulleted list.
+
+```markdown
+* First item
+* Second item
+* Third item
+```
+
+
 ## Images :framed_picture:
 
-As I am writing this for Github flavored Mardown, I have used the html way to link an image. I used this over the typical markdown way, `![ImageName](Images/friendlyNeighborhoodPS.png)` because I am going to have a bunch of nested folders and as of the time writing this only when the Markdown file is in the base folder and or the images folder is in the base folder of the Repo. If you are previewing it in VSCode it will show as broken, but once pushed to Github it will display the image.
+1. When I add images to GitHubs flavored markdown, I save them in a subfolder I have created called images.
 
-<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
+RepoName
+├── FolderInRepo
+├    └──images
+├        └──ImageName.png
+
+2. I then push them up to the Repo in github. 
+
+3. You can then paste the URL where your images are hosted at from your repo into the GitHub flavored mardown syntax `![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)` or drag and drop the image by left clicking and holding, and it will automatically add the syntax for you.
+
+![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
 
 
-![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
-Here is the raw markdown for linking an image to render. When adding pictures in, you will have to
-
-```html
-<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png">
-```
-![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/test-pic.png)
-
-## Code Blocks :shell:
+## Code :shell:
 
 ### Code blocks without syntaxing:
 
