@@ -5,7 +5,7 @@
 <details>
 <summary>Click to expand</summary>
 
-- [GitHub :octocat: Markdown Template :page_facing_up:](#github--octocat--markdown-template--page-facing-up-)
+- [GitHub :octocat: Markdown Template :page_facing_up:]- [GitHub :octocat: Markdown Template :page_facing_up:](#github--octocat--markdown-template--page-facing-up-)
           + [Table of Contents](#table-of-contents)
   * [Headings :man_beard:](#headings--man-beard-)
 - [first-level heading](#first-level-heading)
@@ -19,8 +19,20 @@
     + [Italic example:](#italic-example-)
     + [Bold and italic example:](#bold-and-italic-example-)
     + [Strikethrough example:](#strikethrough-example-)
+    + [Numbered List](#numbered-list)
+    + [Bulleted List](#bulleted-list)
+    + [Nested Lists](#nested-lists)
+    + [Task List](#task-list)
+    + [Colors :paintbrush:](#colors--paintbrush-)
+      - [Color Boxes](#color-boxes)
+      - [Color Font](#color-font)
+      - [$\textcolor{red}{\textsf{Here is some text!}}$](#--textcolor-red---textsf-here-is-some-text----)
+      - [$\textcolor{blue}{\textsf{Here is some text!}}$](#--textcolor-blue---textsf-here-is-some-text----)
+      - [$\textcolor{green}{\textsf{Here is some text!}}$](#--textcolor-green---textsf-here-is-some-text----)
+  * [Paragraphs/Line Breaks](#paragraphs-line-breaks)
+  * [Footnotes](#footnotes)
   * [Images :framed_picture:](#images--framed-picture-)
-  * [Code Blocks :shell:](#code-blocks--shell-)
+  * [Code :shell:](#code--shell-)
     + [Code blocks without syntaxing:](#code-blocks-without-syntaxing-)
     + [Code blocks with syntaxing:](#code-blocks-with-syntaxing-)
     + [Display code blocks within a code block:](#display-code-blocks-within-a-code-block-)
@@ -37,7 +49,11 @@
   * [Subscript :alembic:](#subscript--alembic-)
   * [Superscript](#superscript)
   * [Emojis :grin:](#emojis--grin-)
+  * [Links](#links)
+    + [URL Links](#url-links)
+    + [Section Links](#section-links)
   * [Table of Contents :open_book:](#table-of-contents--open-book-)
+
 
 </details>
 
