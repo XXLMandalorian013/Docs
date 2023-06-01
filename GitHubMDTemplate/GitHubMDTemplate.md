@@ -157,15 +157,13 @@ Here is the raw markdown for bulleted list.
 
 ### Color Models
 
-`#ffffff The background color is  for light mode and for dark mode.`
-
-`#000000 The background color is  for light mode and  for dark mode.`
+Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon someones RegEx workaround for rendering blocks for color
 
 ![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
 
 ![Blue Astris](https://placehold.it/15/0962FF/000000?text=*)
 
-![Green Question Mark](https://placehold.it/15/2aff09/000000?text=?)
+![Green Question Mark](https://placehold.it/15/2aff09/000010?text=?)
 
 ## Images :framed_picture:
 
