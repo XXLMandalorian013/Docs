@@ -402,6 +402,8 @@ E=mc<sup>2</sup>
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
+## Links
+
 ### URL Links
 
 Should you want to include URL links in your MD page, you can simply type the URL and it will be rendered as a link.
@@ -418,16 +420,34 @@ A way to shorten a URLs is to use the GitHub flavored way to add links
 
 ### Section Links
 
-To link to a section, 
+A section is defined as anything with the `#` or heading. This can range from `#` - `######` headings. 
+
+1. To created a section link, make sure you push your Markdown file containing headers to the your repo.
+ 
+2. Then go to that repo in the browser, and click on the link icon. It will copy it to your clipboard.
+
+![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Section-Links.png)
+
+3. Paste that link back into your MD file and use the GitHub flavored way to add links.
+
+[Section Links](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-links)
+
+Here is the raw of what that looks like.
+
+```md
+[Section Links](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-links)
+```
 
 
 
 ## Table of Contents :open_book:
 
-Github creates a table of contense based off your headings, they call it an "Outline".
+Github creates a table of contense based off your headings withing a Markdown file. They call it an "Outline".
 
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png">
 
-Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
+Should you want to include a table of contense withing your MD page
+
+Once you under stand Section Links, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
 
 
