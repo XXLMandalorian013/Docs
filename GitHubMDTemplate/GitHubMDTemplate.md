@@ -41,7 +41,7 @@
 
 </details>
 
-Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown). Also the MD discribed below render properly on GitHub, but may look different in VSCode's defualt previewer.
+Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown). Also the MD discribed below renders properly on GitHub, but may look off or broken in VSCode's defualt previewer. Just roll with my examples and push them to your repo and see for yourself.
 
 ## Headings :man_beard:
 
@@ -354,5 +354,13 @@ A way to shorten a URLs is to use the GitHub flavored way to add links
 ## Table of Contents :open_book:
 
 
-Github creates a table of contense based off your headings. They call it an "Outline". Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
+Github creates a table of contense based off your headings, they call it an "Outline".
+
+<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/markdown-toc.png">
+
+Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
+
+
+
+
 
