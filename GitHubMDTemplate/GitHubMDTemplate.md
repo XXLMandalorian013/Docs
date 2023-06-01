@@ -155,15 +155,17 @@ Here is the raw markdown for bulleted list.
 * Third item
 ```
 
-### Color Models
+### Color Boxes
 
-Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon someones RegEx workaround for rendering blocks for color
+Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon someones RegEx workaround for rendering blocks for color. They only hold text for around three letters worth of text.
 
 ![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
 
-![Blue Astris](https://placehold.it/15/0962FF/000000?text=WordTestHere)
+![Blue Astris](https://placehold.it/15/0962FF/000000?text=*)
 
-![Green Question Mark](https://placehold.it/15/2aff09/000010?text=WordTestHere)
+![Green Question Mark](https://placehold.it/15/2aff09/000010?text=W?)
+
+#### $\textcolor{red}{\textsf{Color didint work?}}$
 
 ## Images :framed_picture:
 
