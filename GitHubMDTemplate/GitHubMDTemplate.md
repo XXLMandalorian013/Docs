@@ -155,6 +155,29 @@ Here is the raw markdown for bulleted list.
 * Third item
 ```
 
+### Nested Lists
+
+You can added `-` withing a numbered or an bulleted list.
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+- First list item
+   - First nested list item
+     - Second nested list item
+
+```markdown
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+- First list item
+   - First nested list item
+     - Second nested list item
+```
+
+
 ### Colors :paintbrush:
 
 Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon some folks RegEx workaround for rendering blocks of color and colored front. The blocks only hold text for around three letters worth of text. As they are not native, they may not work in the furture so keep that in mind.
