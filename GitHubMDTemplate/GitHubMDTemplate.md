@@ -200,6 +200,9 @@ RepoName
 
 ![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
 
+That said, I found this cool tool from Microsoft called learn-images that compresses images to save space. See its VSCode Marketplace link [here](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) for how to use it!
+
+![Image-Reduction-Compair.png](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Image-Reduction-Compair.png)
 
 ## Code :shell:
 
@@ -413,6 +416,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 A way to shorten a URLs is to use the GitHub flavored way to add links
 
 [learn-markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
+Here is the raw Markdown for the Github flavored way.
 
 ```makrdown
 [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
