@@ -213,11 +213,11 @@ Here is the raw Markdown for task lists here.
 - [ ] A ToDo item 2
 ```
 
-### Colors :paintbrush:
+## Colors :paintbrush:
 
 Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon some folks RegEx workaround for rendering blocks of color and colored front. The blocks only hold text for around three letters worth of text. As they are not native, they may not work in the furture so keep that in mind.
 
-#### Color Boxes
+### Color Boxes
 
 ![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
 
@@ -235,7 +235,7 @@ Here
 ![Green Question Mark](https://placehold.it/15/2aff09/000010?text=W?)
 ```
 
-#### Color Font
+### Color Font
 
 #### $\textcolor{red}{\textsf{Here is some text!}}$
 
