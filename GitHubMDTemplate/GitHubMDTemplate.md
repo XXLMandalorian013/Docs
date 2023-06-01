@@ -155,9 +155,11 @@ Here is the raw markdown for bulleted list.
 * Third item
 ```
 
-### Color Text
+### Color Models
 
-<p style="color:red;">I am red</p>
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
 
 ## Images :framed_picture:
 
