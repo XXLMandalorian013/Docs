@@ -157,7 +157,7 @@ Here is the raw markdown for bulleted list.
 
 ### Color Text
 
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+<p style="color:red;">I am red</p>
 
 ## Images :framed_picture:
 
