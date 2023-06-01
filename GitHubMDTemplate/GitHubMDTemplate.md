@@ -183,8 +183,19 @@ Here is the raw Markdown for the above nested lists.
 
 ### Task List
 
+You can create a task list, as well as add a check to the box.
 
+- [x] An compleated example.
+- [ ] A ToDo item 1
+- [ ] A ToDo item 2
 
+Here is the raw Markdown for task lists here.
+
+```markdown
+- [x] An compleated example.
+- [ ] A ToDo item 1
+- [ ] A ToDo item 2
+```
 
 ### Colors :paintbrush:
 
@@ -215,6 +226,18 @@ Here
 #### $\textcolor{blue}{\textsf{Here is some text!}}$
 
 #### $\textcolor{green}{\textsf{Here is some text!}}$
+
+## Paragraphs/Line Breaks
+
+To create paragraphs or a new line/line break, just add a blank line between lines of text.
+
+Here is a supporting example of that.
+
+```markdown
+To create paragraphs or a new line/line break, just add a blank line between lines of text.
+
+Here is a supporting example of that.
+```
 
 ## Images :framed_picture:
 
