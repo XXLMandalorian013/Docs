@@ -395,6 +395,17 @@ Here is the raw markdown for the table above.
 |    4    |        CSS        |
 ```
 
+## Diagrams
+
+Here is a simple flow chart:
+
+flowchart TD
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+
 ## Section :bookmark_tabs:
 
 #### Pre-collapsed section.
