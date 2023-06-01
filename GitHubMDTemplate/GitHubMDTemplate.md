@@ -5,55 +5,37 @@
 <details>
 <summary>Click to expand</summary>
 
-- [GitHub :octocat: Markdown Template :page_facing_up:]- [GitHub :octocat: Markdown Template :page_facing_up:](#github--octocat--markdown-template--page-facing-up-)
-          + [Table of Contents](#table-of-contents)
-  * [Headings :man_beard:](#headings--man-beard-)
-- [first-level heading](#first-level-heading)
-  * [second-level heading](#second-level-heading)
-    + [third-level heading](#third-level-heading)
-      - [fourth-level heading](#fourth-level-heading)
-        * [fifth-level heading](#fifth-level-heading)
-          + [sixth-level heading](#sixth-level-heading)
-  * [Styling :man_in_tuxedo:](#styling--man-in-tuxedo-)
-    + [Bold example:](#bold-example-)
-    + [Italic example:](#italic-example-)
-    + [Bold and italic example:](#bold-and-italic-example-)
-    + [Strikethrough example:](#strikethrough-example-)
-    + [Numbered List](#numbered-list)
-    + [Bulleted List](#bulleted-list)
-    + [Nested Lists](#nested-lists)
-    + [Task List](#task-list)
-    + [Colors :paintbrush:](#colors--paintbrush-)
-      - [Color Boxes](#color-boxes)
-      - [Color Font](#color-font)
-      - [$\textcolor{red}{\textsf{Here is some text!}}$](#--textcolor-red---textsf-here-is-some-text----)
-      - [$\textcolor{blue}{\textsf{Here is some text!}}$](#--textcolor-blue---textsf-here-is-some-text----)
-      - [$\textcolor{green}{\textsf{Here is some text!}}$](#--textcolor-green---textsf-here-is-some-text----)
-  * [Paragraphs/Line Breaks](#paragraphs-line-breaks)
-  * [Footnotes](#footnotes)
-  * [Images :framed_picture:](#images--framed-picture-)
-  * [Code :shell:](#code--shell-)
-    + [Code blocks without syntaxing:](#code-blocks-without-syntaxing-)
-    + [Code blocks with syntaxing:](#code-blocks-with-syntaxing-)
-    + [Display code blocks within a code block:](#display-code-blocks-within-a-code-block-)
-    + [Quoting Code:](#quoting-code-)
-  * [:running_woman: Escaping Markdown](#-running-woman--escaping-markdown)
-  * [Example of a table :bar_chart:](#example-of-a-table--bar-chart-)
-  * [Section :bookmark_tabs:](#section--bookmark-tabs-)
-      - [Pre-collapsed section.](#pre-collapsed-section)
-      - [Collapsed section.](#collapsed-section)
-  * [Quote :speech_balloon:](#quote--speech-balloon-)
-    + [Quote Style 1](#quote-style-1)
-    + [Quote Style 2](#quote-style-2)
-  * [Comment :memo:](#comment--memo-)
-  * [Subscript :alembic:](#subscript--alembic-)
-  * [Superscript](#superscript)
-  * [Emojis :grin:](#emojis--grin-)
-  * [Links](#links)
-    + [URL Links](#url-links)
-    + [Section Links](#section-links)
-  * [Table of Contents :open_book:](#table-of-contents--open-book-)
+[Top of this page :page_facing_up:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 
+[Headings :man_beard:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#first-level-heading)
+
+[Styling :man_in_tuxedo:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#styling-man_in_tuxedo)
+
+*    [Italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic-example)
+*    [Italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic-example)
+*    [Bold and italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bold-and-italic-example)
+*    [Strikethrough](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#strikethrough-example)
+*    [Numbered List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#numbered-list)
+*    [Bulleted List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bulleted-list)
+*    [Nested Lists](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#nested-lists)
+*    [Task List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#task-list)
+
+[Colors :paintbrush:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-boxes)
+
+*    [Color Boxes](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quoting-code)
+*    [Color Font](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-font)
+
+[Paragraphs/Line Breaks :books:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#paragraphsline-breaks-books)
+
+[Footnotes :footprints:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#footnotes-footprints)
+
+[Images :framed_picture:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#images-framed_picture)
+
+[Code :computer:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-computer)
+*    [Code blocks without syntaxing](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-blocks-without-syntaxing)
+*    [Code blocks with syntaxing](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-blocks-with-syntaxing)
+*    [Display code blocks within a code block](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#display-code-blocks-within-a-code-block)
+*    [Quoting Code](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quoting-code)
 
 </details>
 
@@ -95,7 +77,7 @@ no heading
 
 ## Styling :man_in_tuxedo:
 
-### Bold example:
+### Bold
 
 Simply type what you want, then highlight it and press ALT+M and select bold to make it bold. Alternatively, you can prefix and suffix a word with astrict.
 **Bold Example**
@@ -106,7 +88,7 @@ Here is the raw markdown for bolding.
 **Bold Example**
 ```
 
-### Italic example:
+### Italic
 
 Simply type what you want, then highlight it and press ALT+M and select italic to make it italic. Alternatively, you can prefix and suffix a word with astrict.
 
@@ -118,7 +100,7 @@ Here is the raw markdown for italicizing.
 *Italic Example*
 ```
 
-### Bold and italic example:
+### Bold and italic
 
 Simply prefix and suffix a word with astricts.
 
@@ -129,7 +111,7 @@ Here is the raw markdown for bolding and italicizing.
 ```md
 ***bold and italic***.
 ```
-### Strikethrough example:
+### Strikethrough
 
 ~~This was mistaken text~~
 
@@ -225,7 +207,7 @@ Github Markdown does not nativly support markdown font colors nor its long hande
 
 ![Green Question Mark](https://placehold.it/15/2aff09/000010?text=?)
 
-Here 
+Here is the raw Markdown for the color boxes.
 
 ```
 ![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
@@ -314,7 +296,7 @@ That said, I found this cool tool from Microsoft called learn-images that compre
 
 ## Code :computer:
 
-### Code blocks without syntaxing:
+### Code blocks without syntaxing
 
 ```
 Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
@@ -327,7 +309,7 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 ```
 ````
 
-### Code blocks with syntaxing:
+### Code blocks with syntaxing
 
 ```powershell
 $Global:VMName = 'Win10VM'
@@ -349,11 +331,11 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 ```
 ````
 
-### Display code blocks within a code block:
+### Display code blocks within a code block
 
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png">
 
-### Quoting Code:
+### Quoting Code
 
 To quote code withing a sentence, use a single backtick prefix and suffix a word or phase as so `$Global:VMName = 'Win10VM'`.
 
@@ -413,7 +395,7 @@ Here is the raw markdown for the table above.
 
 ## Section :bookmark_tabs:
 
-#### Pre-collapsed section.
+#### Pre-collapsed section
 
 <details>
 <summary>Collapsed Section - Click the arrow!</summary>
@@ -431,10 +413,10 @@ Here is some text within the pre-collapsed section above.
 </details>
 ```
 
-#### Collapsed section.
+#### Collapsed section
 
 <details open>
-<summary>Collapsed Section</summary>
+<summary>Collapsed Section - Click the arrow!</summary>
 
 This is some text within the open collapsed section.
 
@@ -560,6 +542,73 @@ Github creates a table of contense based off your headings withing a Markdown fi
 Should you want to include a table of contense withing your MD page
 
 Once you under stand Section Links, you can also use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
+
+Here is a TOC from markdown-toc.
+
+###### Table of Contents
+
+<details>
+<summary>Click to expand</summary>
+
+- [GitHub :octocat: Markdown Template :page_facing_up:]- [GitHub :octocat: Markdown Template :page_facing_up:](#github--octocat--markdown-template--page-facing-up-)
+          + [Table of Contents](#table-of-contents)
+  * [Headings :man_beard:](#headings--man-beard-)
+- [first-level heading](#first-level-heading)
+  * [second-level heading](#second-level-heading)
+    + [third-level heading](#third-level-heading)
+      - [fourth-level heading](#fourth-level-heading)
+        * [fifth-level heading](#fifth-level-heading)
+          + [sixth-level heading](#sixth-level-heading)
+  * [Styling :man_in_tuxedo:](#styling--man-in-tuxedo-)
+    + [Bold example:](#bold-example-)
+    + [Italic example:](#italic-example-)
+    + [Bold and italic example:](#bold-and-italic-example-)
+    + [Strikethrough example:](#strikethrough-example-)
+    + [Numbered List](#numbered-list)
+    + [Bulleted List](#bulleted-list)
+    + [Nested Lists](#nested-lists)
+    + [Task List](#task-list)
+    + [Colors :paintbrush:](#colors--paintbrush-)
+      - [Color Boxes](#color-boxes)
+      - [Color Font](#color-font)
+      - [$\textcolor{red}{\textsf{Here is some text!}}$](#--textcolor-red---textsf-here-is-some-text----)
+      - [$\textcolor{blue}{\textsf{Here is some text!}}$](#--textcolor-blue---textsf-here-is-some-text----)
+      - [$\textcolor{green}{\textsf{Here is some text!}}$](#--textcolor-green---textsf-here-is-some-text----)
+  * [Paragraphs/Line Breaks](#paragraphs-line-breaks)
+  * [Footnotes](#footnotes)
+  * [Images :framed_picture:](#images--framed-picture-)
+  * [Code :shell:](#code--shell-)
+    + [Code blocks without syntaxing:](#code-blocks-without-syntaxing-)
+    + [Code blocks with syntaxing:](#code-blocks-with-syntaxing-)
+    + [Display code blocks within a code block:](#display-code-blocks-within-a-code-block-)
+    + [Quoting Code:](#quoting-code-)
+  * [:running_woman: Escaping Markdown](#-running-woman--escaping-markdown)
+  * [Example of a table :bar_chart:](#example-of-a-table--bar-chart-)
+  * [Section :bookmark_tabs:](#section--bookmark-tabs-)
+      - [Pre-collapsed section.](#pre-collapsed-section)
+      - [Collapsed section.](#collapsed-section)
+  * [Quote :speech_balloon:](#quote--speech-balloon-)
+    + [Quote Style 1](#quote-style-1)
+    + [Quote Style 2](#quote-style-2)
+  * [Comment :memo:](#comment--memo-)
+  * [Subscript :alembic:](#subscript--alembic-)
+  * [Superscript](#superscript)
+  * [Emojis :grin:](#emojis--grin-)
+  * [Links](#links)
+    + [URL Links](#url-links)
+    + [Section Links](#section-links)
+  * [Table of Contents :open_book:](#table-of-contents--open-book-)
+
+
+</details>
+
+Here is an sample of the raw markdown that markdown-toc creates.
+
+```markdown
+- [Example of a table :bar_chart:](#example-of-a-table--bar-chart-)
+- [Section :bookmark_tabs:](#section--bookmark-tabs-)
+    + [Pre-collapsed section.](#pre-collapsed-section)
+```
 
 <!-- Footnote References -->
 
