@@ -355,7 +355,7 @@ A way to shorten a URLs is to use the GitHub flavored way to add links
 
 Github creates a table of contense based off your headings, they call it an "Outline".
 
-<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/Test.png">
+<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png">
 
 Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
 
