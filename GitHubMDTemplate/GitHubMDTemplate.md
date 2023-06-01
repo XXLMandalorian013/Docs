@@ -122,7 +122,6 @@ Here is the raw markdown for bolding and italicizing.
 ```markdown
 ~~This was mistaken text~~
 ```
-![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png)
 ## Images :framed_picture:
 
 As I am writing this for Github flavored Mardown, I have used the html way to link an image. I used this over the typical markdown way, `![ImageName](Images/friendlyNeighborhoodPS.png)` because I am going to have a bunch of nested folders and as of the time writing this only when the Markdown file is in the base folder and or the images folder is in the base folder of the Repo. If you are previewing it in VSCode it will show as broken, but once pushed to Github it will display the image.
