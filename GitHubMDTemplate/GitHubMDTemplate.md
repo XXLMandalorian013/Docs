@@ -165,7 +165,17 @@ Github Markdown does not nativly support markdown font colors nor its long hande
 
 ![Blue Astris](https://placehold.it/15/0962FF/000000?text=*)
 
+![Green Question Mark](https://placehold.it/15/2aff09/000010?text=?)
+
+Here 
+
+```
+![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
+
+![Blue Astris](https://placehold.it/15/0962FF/000000?text=*)
+
 ![Green Question Mark](https://placehold.it/15/2aff09/000010?text=W?)
+```
 
 #### Color Font
 
