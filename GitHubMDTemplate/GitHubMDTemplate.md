@@ -239,14 +239,19 @@ To create paragraphs or a new line/line break, just add a blank line between lin
 Here is a supporting example of that.
 ```
 
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
 ## Images :framed_picture:
 
 1. When I add images to GitHubs flavored markdown, I save them in a subfolder I have created called images.
 
-RepoName
-├── FolderInRepo
-├    └──images
-├        └──ImageName.png
+![Image-Hierarchy-Example.png](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Image-Hierarchy-Example.png)
 
 2. I then push them up to the Repo in github. 
 
