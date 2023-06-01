@@ -438,8 +438,6 @@ Here is the raw of what that looks like.
 [Links back to the top of this page](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 ```
 
-[MSMDTemplate.md](MSMDTemplate\MSMDTemplate.md)
-
 ## Table of Contents :open_book:
 
 Github creates a table of contense based off your headings withing a Markdown file. They call it an "Outline".
