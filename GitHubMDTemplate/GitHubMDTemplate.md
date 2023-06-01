@@ -155,9 +155,11 @@ Here is the raw markdown for bulleted list.
 * Third item
 ```
 
-### Color Boxes
+### Colors :paintbrush:
 
-Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon someones RegEx workaround for rendering blocks for color. They only hold text for around three letters worth of text.
+Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon some folks RegEx workaround for rendering blocks of color and colored front. The blocks only hold text for around three letters worth of text. As they are not native, they may not work in the furture so keep that in mind.
+
+#### Color Boxes
 
 ![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
 
@@ -165,7 +167,13 @@ Github Markdown does not nativly support markdown font colors nor its long hande
 
 ![Green Question Mark](https://placehold.it/15/2aff09/000010?text=W?)
 
-#### $\textcolor{red}{\textsf{Color didint work?}}$
+#### Color Font
+
+#### $\textcolor{red}{\textsf{Here is some text!}}$
+
+#### $\textcolor{blue}{\textsf{Here is some text!}}$
+
+#### $\textcolor{green}{\textsf{Here is some text!}}$
 
 ## Images :framed_picture:
 
@@ -287,7 +295,7 @@ Here is the raw markdown for the table above.
 #### Pre-collapsed section.
 
 <details>
-<summary>Collapsed Section</summary>
+<summary>Collapsed Section - Click the arrow!</summary>
 
 Here is some text within the pre-collapsed section above.
 
@@ -384,9 +392,9 @@ E=mc<sup>2</sup>
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
-## Links
+### URL Links
 
-Should you want to include links in your MD page, you can simply type the URL and it will be rendered as a link.
+Should you want to include URL links in your MD page, you can simply type the URL and it will be rendered as a link.
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
 
@@ -398,6 +406,12 @@ A way to shorten a URLs is to use the GitHub flavored way to add links
 [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown)
 ```
 
+### Section Links
+
+To link to a section, 
+
+
+
 ## Table of Contents :open_book:
 
 Github creates a table of contense based off your headings, they call it an "Outline".
@@ -405,8 +419,5 @@ Github creates a table of contense based off your headings, they call it an "Out
 <img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png">
 
 Should you want to include a table of contense withing your MD page, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/).
-
-
-
 
 
