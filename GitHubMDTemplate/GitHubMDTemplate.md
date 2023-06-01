@@ -45,7 +45,7 @@ Note: The short cuts referneced here are a combination of exsisting VSCode and a
 
 ## Headings :man_beard:
 
-There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The # symbol followed by a space and what you want to type is used to create a heading. See below for examples. You can also not use # at all and just type what you want.
+There are six recognized heading sizes. The largest is Heading 1, the smallest is Heading 6. The `#` symbol followed by a space and what you want to type is used to create a heading. See below for examples. You can also not use `#` at all and just type what you want.
 
 ```markdown
 # first-level heading
@@ -239,13 +239,46 @@ To create paragraphs or a new line/line break, just add a blank line between lin
 Here is a supporting example of that.
 ```
 
-Here is a simple footnote[^1].
+## Footnotes
 
-A footnote can also have multiple lines[^2].
+Footnotes are numbered links that can apear anywhere in your Markdown page, the only caviot is that the footnote must be defined before it is referenced. A footnote's link reference will always be displayed at the bottom of your Markdown page reguardless of where you place the link [^1]. Clicking on the number will take you to that links referance.
 
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^1]: Footnote 1 reference from link 1.
+
+Here is a raw Markdown example of that.
+
+```markdown
+Footnotes are numbered links that can apear anywhere in your Markdown page, the only caviot is that the footnote must be defined before it is referenced. A footnote's link reference will always be displayed at the bottom of your Markdown page reguardless of where you place the link [^1].
+
+[^1]: Footnote 1 reference from link 1.
+```
+
+Personally I like to add the reference links at the bottom of my page and add a hidden comment denoting that this is the footnote link references. Comments are hidden and not renderd Here is what that would look like in raw Markdown.
+
+```markdown
+Footnote Example 1 [^1]
+
+Footnote Example 2 [^2]
+
+Footnote Example 3 [^3]
+
+
+<!-- Footnote References -->
+
+[^1]: Footnote 1 reference from link 1.
+
+[^2]: Footnote 1 reference from link 2.
+
+[^3]: Footnote 1 reference from link 3.
+```
+
+Here is an example of a link as the link reference[^2].
+
+A footnote can also
+
+
+have multiple lines[^3]. Just add two returns between the lines.
+
 
 ## Images :framed_picture:
 
@@ -432,7 +465,7 @@ Here is the raw markdown for Quote Style 2.
 
 ## Comment :memo:
 
-To add a comment type the following. You will not see it rendered as its for your reference only.
+To add a comment type the following. You will not see it rendered in your page as its for your reference only.
 
 <!-- TO DO: add more details about this later -->
 
@@ -510,6 +543,10 @@ Github creates a table of contense based off your headings withing a Markdown fi
 
 Should you want to include a table of contense withing your MD page
 
-Once you under stand Section Links, you can use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
+Once you under stand Section Links, you can also use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
 
+<!-- Footnote References -->
 
+[^2]: [GitHubMarkdown FootNote Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
+
+[^3]: Footnote 3 example.
