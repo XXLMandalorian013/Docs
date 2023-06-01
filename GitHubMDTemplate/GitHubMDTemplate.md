@@ -426,7 +426,7 @@ A section is defined as anything with the `#` or heading. This can range from `#
  
 2. Then go to that repo in the browser, and click on the link icon. It will copy it to your clipboard.
 
-![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Section-Links.png)
+![Section Links Example](Section-Links.png)
 
 3. Paste that link back into your MD file and use the GitHub flavored way to add links.
 
