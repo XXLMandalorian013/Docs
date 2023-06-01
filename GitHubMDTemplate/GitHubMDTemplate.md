@@ -243,7 +243,7 @@ Here
 
 #### $\textcolor{green}{\textsf{Here is some text!}}$
 
-## Paragraphs/Line Breaks
+## Paragraphs/Line Breaks :books:
 
 To create paragraphs or a new line/line break, just add a blank line between lines of text.
 
@@ -255,7 +255,7 @@ To create paragraphs or a new line/line break, just add a blank line between lin
 Here is a supporting example of that.
 ```
 
-## Footnotes
+## Footnotes :footprints:
 
 Footnotes are numbered links that can apear anywhere in your Markdown page, the only caviot is that the footnote must be defined before it is referenced. A footnote's link reference will always be displayed at the bottom of your Markdown page reguardless of where you place the link [^1]. Clicking on the number will take you to that links referance.
 
@@ -312,7 +312,7 @@ That said, I found this cool tool from Microsoft called learn-images that compre
 
 ![Image-Reduction-Compair.png](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Image-Reduction-Compair.png)
 
-## Code :shell:
+## Code :computer:
 
 ### Code blocks without syntaxing:
 
@@ -499,7 +499,7 @@ Here is the raw markdown for subscript.
 co<sub>2</sub>
 ```
 
-## Superscript
+## Superscript :superhero_man:
 
 E=mc<sup>2</sup>
 
@@ -513,7 +513,7 @@ E=mc<sup>2</sup>
 
 A list of emoji have been compiled here. https://github.com/ikatyang/emoji-cheat-sheet/tree/master
 
-## Links
+## Links :link:
 
 ### URL Links
 
@@ -566,3 +566,5 @@ Once you under stand Section Links, you can also use [markdown-toc](https://ecot
 [^2]: [GitHubMarkdown FootNote Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
 
 [^3]: Footnote 3 example.
+
+
