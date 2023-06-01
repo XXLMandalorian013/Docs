@@ -161,11 +161,11 @@ Here is the raw markdown for bulleted list.
 
 `#000000 The background color is  for light mode and  for dark mode.`
 
-![#FF0000](https://placehold.it/15/FF0000/000000?text=!)
+![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
 
-![#0962FF](https://placehold.it/15/FF0000/000000?text=*)
+![Blue Astris](https://placehold.it/15/0962FF/000000?text=*)
 
-![#00CD41](https://placehold.it/15/FF0000/000000?text=?)
+![Green Question Mark](https://placehold.it/15/2aff09/000000?text=?)
 
 ## Images :framed_picture:
 
