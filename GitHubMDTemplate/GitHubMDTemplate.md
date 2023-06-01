@@ -430,14 +430,13 @@ A section is defined as anything with the `#` or heading. This can range from `#
 
 3. Paste that link back into your MD file and use the GitHub flavored way to add links.
 
-[Section Links](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-links)
+[Links back to the top of this page](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 
 Here is the raw of what that looks like.
 
 ```md
-[Section Links](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-links)
+[Links back to the top of this page](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 ```
-
 
 
 ## Table of Contents :open_book:
