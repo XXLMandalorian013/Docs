@@ -127,6 +127,10 @@ Here is the raw markdown for bolding and italicizing.
 
 To create a numbered list, just type `1.` as you would normaly in most word processors.
 
+1. First item
+2. Second item
+3. Third item
+
 Here is the raw markdown for numbered list.
 
 ```markdown
@@ -138,6 +142,10 @@ Here is the raw markdown for numbered list.
 ### Bulleted List
 
 To make a bulleted list, just type `*` as you would normaly in most word processors.
+
+* First item
+* Second item
+* Third item
 
 Here is the raw markdown for bulleted list.
 
