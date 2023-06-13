@@ -4,12 +4,12 @@
 
 ## Prerequisites/Notes:
 
-	1. You must restart Outlook for changes to take effect after adding additional emails.
+1. You must restart Outlook for changes to take effect after adding additional emails.
 
 
 ## Objective:
 
-	1. Add other email accounts to be accessed in Outlook.
+1. Add other email accounts to be accessed in Outlook.
 
 
 ## Steps:
