@@ -27,6 +27,8 @@ With the message selected, hold Shift and click delete. This will ask if you are
 
 ![Safe-Mode](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Email/Permanently-Delete-Email/images/alt-method.png)
 
+:warning: Warning: Items removed from your Recoverable items are permanently deleted and cannot be restored.
+
 This will send emails to the "recover deleted items" folder. Emails here will no longer be able to be recovered after your retention policy time has 
-passed (typically 14 days). Be sure to reference back to steps one and two to truly delete something from your mailbox.
+passed (typically 14 days). Be sure to reference back to steps one and two to purge the emails freeing space in your mailbox.
 
