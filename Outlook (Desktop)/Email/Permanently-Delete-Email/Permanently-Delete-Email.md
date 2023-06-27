@@ -3,7 +3,7 @@
 
 ## Prerequisites/Notes:
 
-A permanently deleted email can be recovered if done so within 14 days from the time it is permanently deleted. 14 days are MS default retention Policy.
+A permanently deleted email(s) ***can not*** be recovered:heavy_exclamation_mark:
 
 ## Objective:
 
@@ -11,11 +11,11 @@ A permanently deleted email can be recovered if done so within 14 days from the 
 
 ## Steps:
 
+:warning: Warning: Items removed from your Recoverable items are permanently deleted and cannot be restored.
+
 1. In your inbox, click the "Deleted Items" folder, and click Recover items recently removed from this folder.
 
 ![Safe-Mode](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Email/Permanently-Delete-Email/images/Deleted-Items.png)
-
-**This next step will make emails become permanently unrecoverable**
 
 2. Click the email or emails to permanently delete and select "Purge Selected Items" and click ok.
 
