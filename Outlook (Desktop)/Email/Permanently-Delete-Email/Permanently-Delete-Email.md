@@ -3,7 +3,7 @@
 
 ## Prerequisites/Notes:
 
-1. Permanently deleted email can be recovered if done so within 14 days from the time it is permanently deleted. 14 days is MS default retention Policy.
+A permanently deleted email can be recovered if done so within 14 days from the time it is permanently deleted. 14 days are MS default retention Policy.
 
 ## Objective:
 
