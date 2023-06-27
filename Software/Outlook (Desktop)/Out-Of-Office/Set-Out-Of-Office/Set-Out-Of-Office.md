@@ -8,12 +8,12 @@
 
 1. 	Click File,
 
-![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
+![File](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Software/Outlook%20(Desktop)/Out-Of-Office/Set-Out-Of-Office/images/File.png)
 
 2. Click on Automatic Replies
 
-![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
+![Auto-Reply](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Software/Outlook%20(Desktop)/Out-Of-Office/Set-Out-Of-Office/images/Auto-Reply.png)
 
 3. Set the response and time accordingly and click OK.
 
-![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
+![Out-Of-Office](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Software/Outlook%20(Desktop)/Out-Of-Office/Set-Out-Of-Office/images/Out-Of-Office.png)
