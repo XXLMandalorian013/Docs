@@ -12,9 +12,9 @@
 
 ## [Exchange Admin Center]()
 
-## :mailbox_closed:[Outlook (Desktop)]()
+## :mailbox_closed: [Outlook (Desktop)]()
 
-## [Outlook (Mobile)]()
+## :iphone: [Outlook (Mobile)]()
 
 ## [Teams (Desktop)]()
 
