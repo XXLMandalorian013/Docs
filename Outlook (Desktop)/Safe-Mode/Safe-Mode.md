@@ -10,4 +10,4 @@
 
 2. Type outlook.exe /safe
 
-![Click File](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/Outlook%20(Desktop)/Add-An-External-Email/images/Click%20File.png)
+![Safe-Mode](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Safe-Mode/images/Run.png)
