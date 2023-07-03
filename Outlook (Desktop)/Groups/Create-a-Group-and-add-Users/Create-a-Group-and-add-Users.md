@@ -26,5 +26,5 @@
 
     See additional options in "Group Settings."
 
-[Additional-Options](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Groups/Create-a-Group-and-add-Users/images/Additional-Options.png)
+![Additional-Options](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Groups/Create-a-Group-and-add-Users/images/Additional-Options.png)
 
