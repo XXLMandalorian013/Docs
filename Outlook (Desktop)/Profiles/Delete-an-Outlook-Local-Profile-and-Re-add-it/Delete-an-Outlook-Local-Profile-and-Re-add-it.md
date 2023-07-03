@@ -3,7 +3,7 @@
 
 ## Issue: 
 
-![Error](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Profiles/Delete-an-Outlook-Local-Profile-and-Re-add-it/images/Error.png)
+![Error](https://github.com/XXLMandalorian013/Docs-Software-SAS-Public/blob/main/Outlook%20(Desktop)/Profiles/Delete-an-Outlook-Local-Profile-and-Re-add-it/images/error.png)
 
 "The operation failed. The messaging interface have returned an unknown error. If the problem persists, restart Outlook."
 
